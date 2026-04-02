@@ -8,11 +8,13 @@
 ![Orion Global Retail - Supply Chain & Sales Performance Dashboard](SCREEN1.PNG)
 
 **Purpose:**
+
 To build an end-to-end business intelligence solution providing 
 visibility into global supply chain performance, sales trends 
 and profitability across regions, shipping modes and product categories.
 
 **Business Problem:**
+
 The business had raw transactional data with no structured way 
 to monitor delivery performance, revenue trends or profitability. 
 Key questions included which shipping modes cause delays, which 
@@ -20,6 +22,7 @@ regions and products drive the most revenue, and how discounting
 impacts profit.
 
 **Approach:**
+
 - Imported raw Excel data into SQL Server and performed full 
   data quality checks, null validation, duplicate detection 
   and foreign key integrity across orders, customers and products
@@ -36,6 +39,7 @@ impacts profit.
   delivery performance visuals, category analysis and dynamic slicers
 
 **Outcome:**
+
 - Dashboard reveals overall revenue and profit performance 
   across all regions and time periods at a glance
 - Over 80% of orders are delivered on time globally with 
@@ -48,6 +52,7 @@ impacts profit.
   enabling targeted account management decisions
 
 **Recommendations:**
+
 - Review Standard Class shipping strategy to reduce lead 
   times and improve overall delivery performance
 - Prioritise Technology and Furniture for inventory and 
@@ -56,6 +61,7 @@ impacts profit.
   protect overall profitability across all regions
 
 **Tech Stack:**
+
 - SQL Server - CTEs, JOINs, CASE statements, data quality 
   checks and clean view creation
 - Power BI - star schema modelling, DAX measures, Calendar 
