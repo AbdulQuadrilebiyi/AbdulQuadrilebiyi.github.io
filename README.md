@@ -27,7 +27,7 @@ impacts profit.
   data quality checks, null validation, duplicate detection 
   and foreign key integrity across orders, customers and products
 - Used CTEs, JOINs and CASE statements to clean, deduplicate 
-  and apply business logic — delivery lead times, on-time vs 
+  and apply business logic, delivery lead times, on-time vs 
   delayed classification, discount flags and profitability status
 - Imported clean views into Power BI, verified data integrity 
   and built a star schema, orders as the central fact table 
