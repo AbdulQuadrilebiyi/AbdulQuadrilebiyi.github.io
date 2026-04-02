@@ -68,5 +68,4 @@ impacts profit.
   table, slicers and interactive dashboard design
 
   [Download Power BI File (.pbix)](https://github.com/AbdulQuadrilebiyi/AbdulQuadrilebiyi.github.io/blob/main/Atlas%20Retail_Dashboard.pbix)
-
   [View SQL Script (.sql)](OrionGlobalRetail.sql)
