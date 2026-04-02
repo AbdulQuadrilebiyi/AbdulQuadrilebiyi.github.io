@@ -71,15 +71,18 @@ impacts profit.
 
 
 
+
+
+
+
+
 # Project 2
 
-**Title: [Atlas Retail — Sales & Profitability Analytics Dashboard](https://github.com/AbdulQuadrilebiyi/AbdulQuadrilebiyi.github.io/blob/main/Atlas%20Retail_Dashboard.pbix)**
+**Title: [Atlas Retail - Sales & Profitability Analytics Dashboard](https://github.com/AbdulQuadrilebiyi/AbdulQuadrilebiyi.github.io/blob/main/Atlas%20Retail_Dashboard.pbix)**
 
 **Tools:** SQL Server, Power BI
 
 ![Orion Global Retail - Supply Chain & Sales Performance Dashboard](SCREEN2.PNG)
-
-![Dashboard Screenshot](SCREEN1.PNG)
 
 **Purpose:**
 To build an end-to-end business intelligence solution that 
