@@ -154,4 +154,4 @@ segments and regions are actually profitable?
   columns, Calendar table, slicers and interactive
   dashboard design
 
-[Download Power BI File (.pbix)](https://github.com/AbdulQuadrilebiyi/AbdulQuadrilebiyi.github.io/blob/main/Atlas%20Retail_Dashboard.pbix)) | [View SQL Script (.sql)](https://github.com/AbdulQuadrilebiyi/AbdulQuadrilebiyi.github.io/blob/main/AtlasRetail.sql)
+[Download Power BI File (.pbix)](https://github.com/AbdulQuadrilebiyi/AbdulQuadrilebiyi.github.io/blob/main/Atlas%20Retail_Dashboard.pbix) | [View SQL Script (.sql)](https://github.com/AbdulQuadrilebiyi/AbdulQuadrilebiyi.github.io/blob/main/AtlasRetail.sql)
