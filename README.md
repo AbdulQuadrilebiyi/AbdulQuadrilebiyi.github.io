@@ -67,4 +67,4 @@ impacts profit.
   with one-to-many relationships, calculated column, Calendar
   table, slicers and interactive dashboard design
 
-[Download Power BI File (.pbix)](https://github.com/AbdulQuadrilebiyi/AbdulQuadrilebiyi.github.io/blob/main/Atlas%20Retail_Dashboard.pbix) | [View SQL Script (.sql)](OrionGlobalRetail.sql)
+[Download Power BI File (.pbix)](https://github.com/AbdulQuadrilebiyi/AbdulQuadrilebiyi.github.io/blob/main/Atlas%20Retail_Dashboard.pbix) | [View SQL Script (.sql)](OrionRetail.sql)
