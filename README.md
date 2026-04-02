@@ -5,7 +5,7 @@
 
 **Tools:** SQL Server, Power BI
 
-[Orion Global Retail - Supply Chain & Sales Performance Dashboard](https://github.com/AbdulQuadrilebiyi/AbdulQuadrilebiyi.github.io/blob/main/Orion%20Global%20Retail_Dashboard.pbix)
+![Orion Global Retail - Supply Chain & Sales Performance Dashboard(https://github.com/AbdulQuadrilebiyi/AbdulQuadrilebiyi.github.io/blob/main/Orion%20Global%20Retail_Dashboard.pbix)
 
 **Purpose:**
 To build an end-to-end business intelligence solution providing 
