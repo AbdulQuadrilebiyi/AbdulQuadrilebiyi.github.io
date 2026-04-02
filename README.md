@@ -61,11 +61,11 @@ impacts profit.
   protect overall profitability across all regions
 
 **Tech Stack:**
-
-- SQL Server - CTEs, JOINs, CASE statements, data quality 
-  checks and clean view creation
-- Power BI - star schema modelling, DAX measures, Calendar 
-  table and interactive dashboard design
+- SQL Server - CTEs, Window Functions, JOINs, CASE statements,
+  data quality checks and clean view creation
+- Power BI - DAX measures, KPI cards, star schema data modelling
+  with one-to-many relationships, calculated column, Calendar
+  table, slicers and interactive dashboard design
 
 📥 [Download Power BI File (.pbix)](Orion_Global_Retail_Dashboard.pbix)
 
