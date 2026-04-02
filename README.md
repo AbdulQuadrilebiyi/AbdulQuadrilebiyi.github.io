@@ -5,7 +5,7 @@
 
 # Orion Global Retail — Supply Chain & Sales Performance Dashboard
 
-**Tools:** SQL Server | Power BI
+**Tools:** SQL Server, Power BI
 
 [Orion Global Retail — Supply Chain & Sales Performance Dashboard](https://github.com/AbdulQuadrilebiyi/AbdulQuadrilebiyi.github.io/blob/main/Orion%20Global%20Retail_Dashboard.pbix)
 
