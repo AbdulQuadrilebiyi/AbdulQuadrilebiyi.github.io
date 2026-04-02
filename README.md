@@ -1,7 +1,7 @@
 # Data Analytics Portfolio
 # Project 1
 
-# Orion Global Retail - Supply Chain & Sales Performance Dashboard
+**Orion Global Retail - Supply Chain & Sales Performance Dashboard**
 
 **Tools:** SQL Server, Power BI
 
