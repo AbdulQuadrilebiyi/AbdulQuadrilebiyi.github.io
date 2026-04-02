@@ -64,4 +64,5 @@ impacts profit.
   table and interactive dashboard design
 
 📥 [Download Power BI File (.pbix)](Orion_Global_Retail_Dashboard.pbix)
+
 📄 [View SQL Script (.sql)](OrionGlobalRetail.sql)
