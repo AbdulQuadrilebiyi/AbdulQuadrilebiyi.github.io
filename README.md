@@ -94,12 +94,14 @@ impacts profit.
 ![Orion Global Retail - Supply Chain & Sales Performance Dashboard](SCREEN2.PNG)
 
 **Purpose:**
+
 To build an end-to-end business intelligence solution that 
 transforms raw retail sales data into actionable insights 
 on revenue performance, profitability trends and customer 
 behaviour across regions, product categories and segments.
 
 **Business Problem:**
+
 The business had raw transactional sales data with no structured 
 way to monitor profitability, track revenue trends or understand 
 the impact of discounting on overall performance. Key questions 
@@ -108,6 +110,7 @@ revenue, how discounting affects profit and which customer
 segments are most valuable.
 
 **Approach:**
+
 - Imported raw Excel data into SQL Server and performed full
   data quality checks — null validation, duplicate detection
   and negative value identification across orders, customers
@@ -126,6 +129,7 @@ segments are most valuable.
   regional and category performance visuals and dynamic slicers
 
 **Outcome:**
+
 - Dashboard provides clear visibility into overall revenue
   and profitability performance across all regions and periods
 - Technology is consistently the highest revenue and profit
@@ -137,6 +141,7 @@ segments are most valuable.
   clear signals for performance monitoring and planning
 
 **Recommendations:**
+
 - Review discounting strategy as high discount volume is
   likely suppressing overall profit margins
 - Prioritise investment in Technology and Furniture categories
@@ -147,6 +152,7 @@ segments are most valuable.
   to early signs of revenue or margin decline
 
 **Tech Stack:**
+
 - SQL Server — CTEs, Window Functions including ROW_NUMBER()
   and RANK(), INNER and LEFT JOINs, CASE statements,
   data quality checks and clean view creation
@@ -155,5 +161,4 @@ segments are most valuable.
   columns, Calendar table, slicers and interactive
   dashboard design
 
-📥 [Download Power BI File (.pbix)](Atlas_Retail_Dashboard.pbix)
-📄 [View SQL Script (.sql)](AtlasRetail_formatted.sql)
+[Download Power BI File (.pbix)](https://github.com/AbdulQuadrilebiyi/AbdulQuadrilebiyi.github.io/blob/main/Atlas%20Retail_Dashboard.pbix)) | [View SQL Script (.sql)](AtlasRetail.sql)
