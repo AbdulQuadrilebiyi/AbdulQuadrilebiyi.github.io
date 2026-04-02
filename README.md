@@ -76,6 +76,15 @@ impacts profit.
 
 
 
+
+
+
+
+
+
+
+
+
 # Project 2
 
 **Title: [Atlas Retail - Sales & Profitability Analytics Dashboard](https://github.com/AbdulQuadrilebiyi/AbdulQuadrilebiyi.github.io/blob/main/Atlas%20Retail_Dashboard.pbix)**
