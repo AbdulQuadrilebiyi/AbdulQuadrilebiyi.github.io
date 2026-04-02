@@ -1,3 +1,6 @@
+# Professional Data Analytics Portfolio
+# Project 1
+
 ![Orion Global Retail Dashboard](SCREEN1.PNG)
 
 **Title:** Orion Global Retail — Supply Chain & Sales Performance Dashboard
