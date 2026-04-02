@@ -1,29 +1,28 @@
 # Professional Data Analytics Portfolio
 
 # Project 1
-**Title:** Atlas Retail — Sales & Profitability Analytics Dashboard
+**Title:** Orion Global Retail - Supply Chain & Sales Performance Dashboard
 
 **Tools Used:** SQL, Power BI
 
 **Project Description:**
-This project analyzes retail sales performance and profitability 
-trends across multiple product categories, customers, and regions. 
-Raw transactional sales data was imported into SQL Server, cleaned, 
-transformed, and modeled, then visualized through an interactive 
-Power BI dashboard. The dashboard enables stakeholders to monitor 
-key financial metrics such as revenue, profit, order volume, and 
-profitability performance over time.
+This project focuses on analyzing supply chain efficiency and order 
+fulfillment performance across regions and shipping methods. Raw order, 
+customer, and product data was imported into SQL Server, relationships 
+were created, and delivery lead times were calculated. Results were 
+visualized in an interactive Power BI dashboard tracking logistics 
+and operational performance.
 
 **Key Findings:**
-- Identified top-performing product categories by revenue and profit
-- Revealed month-over-month revenue trends and seasonal patterns
-- Highlighted the most profitable customer segments
-- Compared regional profitability performance across all areas
-- Calculated overall profit margin and average order value
+- Calculated average delivery lead times across all shipping modes
+- Identified regions with the highest rate of delayed orders
+- Compared on-time delivery performance by shipping method
+- Revealed top revenue-generating customers
+- Highlighted operational inefficiencies in fulfillment process
 
-**Dashboard Overview:**
-The Power BI dashboard includes Total Revenue, Total Profit, 
-Profit Margin, Total Orders, and Average Order Value KPIs. 
-It features Revenue Trend Analysis, Profitability Comparison 
-by Category, Top Customers Performance Table, and Interactive 
-Filtering by Region and Category.
+**Dashboard Overview:** [Orion Global Retail](SCREEN 2.PNG)
+The Power BI dashboard includes Total Revenue, Total Orders, 
+On-Time Orders, and Average Lead Time KPIs. It features Revenue 
+Trend Visualization, Delivery Performance Analysis, Revenue by 
+Product Category, Top Customers Table, and Supply Chain 
+Performance Visualization.
