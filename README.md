@@ -1,7 +1,6 @@
-# Professional Data Analytics Portfolio
+![Orion Global Retail Dashboard](SCREEN1.PNG)
 
-# Project 1
-**Title:** Orion Global Retail - Supply Chain & Sales Performance Dashboard
+**Title:** Orion Global Retail — Supply Chain & Sales Performance Dashboard
 
 **Tools Used:** SQL, Power BI
 
@@ -20,12 +19,12 @@ and operational performance.
 - Revealed top revenue-generating customers
 - Highlighted operational inefficiencies in fulfillment process
 
-**Dashboard Overview:** 
-
-![Orion Global Retail](SCREEN 2.PNG)
-
+**Dashboard Overview:**
 The Power BI dashboard includes Total Revenue, Total Orders, 
 On-Time Orders, and Average Lead Time KPIs. It features Revenue 
 Trend Visualization, Delivery Performance Analysis, Revenue by 
 Product Category, Top Customers Table, and Supply Chain 
 Performance Visualization.
+
+**SQL Script Preview:**
+![Orion SQL Script](ORION-SQL-SCREENSHOT.PNG)
