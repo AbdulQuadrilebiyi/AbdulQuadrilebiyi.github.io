@@ -20,7 +20,10 @@ and operational performance.
 - Revealed top revenue-generating customers
 - Highlighted operational inefficiencies in fulfillment process
 
-**Dashboard Overview:** [Orion Global Retail](SCREEN 2.PNG)
+**Dashboard Overview:** 
+
+![Orion Global Retail](SCREEN 2.PNG)
+
 The Power BI dashboard includes Total Revenue, Total Orders, 
 On-Time Orders, and Average Lead Time KPIs. It features Revenue 
 Trend Visualization, Delivery Performance Analysis, Revenue by 
