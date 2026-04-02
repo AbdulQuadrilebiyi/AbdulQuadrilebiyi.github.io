@@ -78,13 +78,6 @@ impacts profit.
 
 
 
-
-
-
-
-
-
-
 # Project 2
 
 **Title: [Atlas Retail - Sales & Profitability Analytics Dashboard](https://github.com/AbdulQuadrilebiyi/AbdulQuadrilebiyi.github.io/blob/main/Atlas%20Retail_Dashboard.pbix)**
@@ -95,61 +88,61 @@ impacts profit.
 
 **Purpose:**
 
-To build an end-to-end business intelligence solution that 
-transforms raw retail sales data into actionable insights 
-on revenue performance, profitability trends and customer 
-behaviour across regions, product categories and segments.
+To analyze retail sales performance and profitability across 
+product categories, customer segments and regions — providing 
+management with clear visibility into revenue drivers, margin 
+trends and the commercial impact of discounting strategies.
 
 **Business Problem:**
 
-The business had raw transactional sales data with no structured 
-way to monitor profitability, track revenue trends or understand 
-the impact of discounting on overall performance. Key questions 
-included which product categories and regions drive the most 
-revenue, how discounting affects profit and which customer 
-segments are most valuable.
+Leadership had no reliable way to measure profitability at 
+category or segment level, or to understand whether discounting 
+was helping or hurting the business. The core question was — 
+are we growing revenue while protecting our margins, and which 
+segments and regions are actually profitable?
 
 **Approach:**
 
-- Imported raw Excel data into SQL Server and performed full
-  data quality checks — null validation, duplicate detection
-  and negative value identification across orders, customers
-  and products
-- Used CTEs, Window Functions including ROW_NUMBER() and RANK(),
-  INNER JOINs and CASE statements to clean, deduplicate and
-  apply business logic — discount status, profitability
-  classification and revenue ranking
-- Imported data into Power BI, verified integrity and built
-  a star schema — raw_sales_order as the central fact table
-  connected to customers, products and a Calendar table
-- Created DAX measures including Total Revenue, Total Profit,
-  Profit Margin %, Average Order Value, Revenue MoM %,
-  Profit MoM % and Last Month Revenue and Profit
-- Designed interactive dashboard with KPI cards, trend charts,
-  regional and category performance visuals and dynamic slicers
+- Conducted end-to-end data validation across three raw tables —
+  orders, customers and products — following Excel import into
+  SQL Server
+- Used CTEs, ROW_NUMBER() and RANK() Window Functions to
+  deduplicate records and rank products and customers by revenue
+- Applied INNER JOINs and CASE statements to classify discount
+  status, profitability and order size per transaction
+- Built monthly trend and profitability aggregations using
+  GROUP BY, SUM, AVG and TOP queries
+- Connected clean data into Power BI, built a star schema and
+  created DAX measures for Profit Margin %, Average Order Value,
+  Revenue MoM %, Profit MoM %, Discounted Orders and
+  Last Month comparisons
+- Designed a two page interactive dashboard with profitability
+  visuals, regional comparisons, category breakdowns and
+  discount impact analysis
 
 **Outcome:**
 
-- Dashboard provides clear visibility into overall revenue
-  and profitability performance across all regions and periods
-- Technology is consistently the highest revenue and profit
-  generating category followed by Furniture
-- West region leads all regions in total revenue generation
-- Discounted orders represent a higher volume than
-  non-discounted orders indicating heavy discount dependency
-- Profit Margin % and Month-over-Month trends give management
-  clear signals for performance monitoring and planning
+- Technology category generates the highest revenue and profit
+  while Office Supplies shows the weakest margin performance
+- West region consistently outperforms all other regions
+  in both revenue and profitability
+- Discounted orders outnumber non-discounted orders showing
+  heavy reliance on discounting to drive sales volume
+- Average Order Value and Profit Margin KPIs provide management
+  with a clear commercial performance baseline at any level
+- Month-over-Month trends show significant volatility suggesting
+  seasonal or promotional influences on revenue and profit
 
 **Recommendations:**
 
-- Review discounting strategy as high discount volume is
-  likely suppressing overall profit margins
-- Prioritise investment in Technology and Furniture categories
-  as they consistently drive the highest revenue and profit
-- Focus sales efforts on the West and East regions which
-  show the strongest revenue performance
-- Monitor Profit MoM % trends closely to detect and respond
-  to early signs of revenue or margin decline
+- Reduce discount dependency especially on low margin product
+  subcategories where discounting is eroding profitability
+- Investigate Office Supplies margin performance and consider
+  repricing or reducing promotional activity in this category
+- Leverage the West region success model and apply similar
+  strategies to Central and South regions to improve performance
+- Use Average Order Value trends to identify opportunities
+  for upselling and cross selling across customer segments
 
 **Tech Stack:**
 
