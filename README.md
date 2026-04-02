@@ -1,4 +1,4 @@
-# Professional Data Analytics Portfolio
+# Data Analytics Portfolio
 # Project 1
 
 ![Orion Global Retail Dashboard](SCREEN1.PNG)
