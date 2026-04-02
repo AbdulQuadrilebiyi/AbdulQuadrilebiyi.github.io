@@ -1,11 +1,11 @@
 # Data Analytics Portfolio
 # Project 1
 
-**Title:** Orion Global Retail — Supply Chain & Sales Performance Dashboard
+**Title:** Orion Global Retail - Supply Chain & Sales Performance Dashboard
 
 **Tools:** SQL Server, Power BI
 
-[Orion Global Retail — Supply Chain & Sales Performance Dashboard](https://github.com/AbdulQuadrilebiyi/AbdulQuadrilebiyi.github.io/blob/main/Orion%20Global%20Retail_Dashboard.pbix)
+[Orion Global Retail - Supply Chain & Sales Performance Dashboard](https://github.com/AbdulQuadrilebiyi/AbdulQuadrilebiyi.github.io/blob/main/Orion%20Global%20Retail_Dashboard.pbix)
 
 **Purpose:**
 To build an end-to-end business intelligence solution providing 
@@ -21,13 +21,13 @@ impacts profit.
 
 **Approach:**
 - Imported raw Excel data into SQL Server and performed full 
-  data quality checks — null validation, duplicate detection 
+  data quality checks, null validation, duplicate detection 
   and foreign key integrity across orders, customers and products
 - Used CTEs, JOINs and CASE statements to clean, deduplicate 
   and apply business logic — delivery lead times, on-time vs 
   delayed classification, discount flags and profitability status
 - Imported clean views into Power BI, verified data integrity 
-  and built a star schema — orders as the central fact table 
+  and built a star schema, orders as the central fact table 
   connected to customers, products and a Calendar table
 - Created DAX measures including Total Revenue, Total Profit, 
   On-Time Orders, Avg Lead Time, Profit Margin % and 
@@ -56,9 +56,9 @@ impacts profit.
   protect overall profitability across all regions
 
 **Tech Stack:**
-- SQL Server — CTEs, JOINs, CASE statements, data quality 
+- SQL Server - CTEs, JOINs, CASE statements, data quality 
   checks and clean view creation
-- Power BI — star schema modelling, DAX measures, Calendar 
+- Power BI - star schema modelling, DAX measures, Calendar 
   table and interactive dashboard design
 
 📥 [Download Power BI File (.pbix)](Orion_Global_Retail_Dashboard.pbix)
