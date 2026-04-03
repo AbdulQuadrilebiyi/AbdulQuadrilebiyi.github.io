@@ -221,7 +221,7 @@ billing performance consistent across conditions and months?
 
 **Tech Stack:**
 
-- Excel — Power Query for data cleaning and transformation,
+- Excel - Power Query for data cleaning and transformation,
   Pivot Tables for data summarisation, KPI cards, charts,
   slicers and interactive dashboard design
 
