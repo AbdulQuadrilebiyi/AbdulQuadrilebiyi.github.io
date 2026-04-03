@@ -171,8 +171,7 @@ segments and regions are actually profitable?
 **Purpose:**
 
 To analyze patient activity, billing trends and operational
-performance across medical conditions, age groups and gender —
-providing healthcare management with visibility into admission
+performance across medical conditions, age groups and gender, providing healthcare management with visibility into admission
 patterns, length of stay and revenue performance.
 
 **Business Problem:**
@@ -180,7 +179,7 @@ patterns, length of stay and revenue performance.
 Hospital management had no structured way to monitor patient
 admissions, track billing trends or understand which medical
 conditions drive the longest stays and highest costs. The core
-question was — how are our patients distributed and is our
+question was how are our patients distributed and is our
 billing performance consistent across conditions and months?
 
 **Approach:**
@@ -189,8 +188,7 @@ billing performance consistent across conditions and months?
   including Age Group, Gender, Medical Condition, Admission
   Type, Billing Amount, Length of Stay and Date of Admission
 - Used Power Query to clean and transform the dataset
-- Built multiple Pivot Tables to summarise patient activity —
-  monthly admissions, billing by month, condition distribution,
+- Built multiple Pivot Tables to summarise patient activity monthly admissions, billing by month, condition distribution,
   average length of stay and gender breakdown
 - Created KPI summaries for Total Billing, Total Patients,
   Average Length of Stay and Emergency Admissions
@@ -205,8 +203,8 @@ billing performance consistent across conditions and months?
   at 15.7 days while Diabetes patients have the shortest at 15.4
 - Monthly patient admissions remain relatively stable
   throughout the year with August showing the highest volume
-- Gender distribution is almost equal — Female 20,127
-  and Male 20,108 — showing no significant gender bias
+- Gender distribution is almost equal, Female 20,127
+  and Male 20,108, showing no significant gender bias
 - Billing trends are consistent month to month with no
   significant seasonal spikes
 
