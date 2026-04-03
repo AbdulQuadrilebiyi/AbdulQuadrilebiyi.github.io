@@ -82,7 +82,7 @@ impacts profit.
 
 **Tools:** SQL Server, Power BI
 
-![Orion Global Retail - Supply Chain & Sales Performance Dashboard](SCREEN2.PNG)
+![[Atlas Retail - Sales & Profitability Analytics Dashboard](SCREEN2.PNG)
 
 **Purpose:**
 
@@ -162,12 +162,11 @@ segments and regions are actually profitable?
 
 # Project 3
 
-**Title: [Atlas Retail - Sales & Profitability Analytics Dashboard](https://github.com/AbdulQuadrilebiyi/AbdulQuadrilebiyi.github.io/blob/main/Atlas%20Retail_Dashboard.pbix)**
 **Title:** [NovaCare Healthcare — Patient Operations Executive Dashboard](https://github.com/AbdulQuadrilebiyi/AbdulQuadrilebiyi.github.io/blob/main/NovaCare.xlsx)**
 
 **Tools:** Excel
 
-![Dashboard Screenshot](NOVACARE-SCREENSHOT.PNG)
+![[NovaCare Healthcare — Patient Operations Executive Dashboard](SCREEN3.PNG)
 
 **Purpose:**
 To analyze patient activity, billing trends and operational
