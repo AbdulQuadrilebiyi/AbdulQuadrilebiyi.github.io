@@ -162,11 +162,11 @@ segments and regions are actually profitable?
 
 # Project 3
 
-**Title:** [NovaCare Healthcare — Patient Operations Executive Dashboard](https://github.com/AbdulQuadrilebiyi/AbdulQuadrilebiyi.github.io/blob/main/NovaCare.xlsx)**
+**Title:** [NovaCare Healthcare - Patient Operations Executive Dashboard](https://github.com/AbdulQuadrilebiyi/AbdulQuadrilebiyi.github.io/blob/main/NovaCare.xlsx)**
 
 **Tools:** Excel
 
-![[NovaCare Healthcare — Patient Operations Executive Dashboard](SCREEN3.PNG)
+![NovaCare Healthcare - Patient Operations Executive Dashboard](SCREEN3.PNG)
 
 **Purpose:**
 To analyze patient activity, billing trends and operational
