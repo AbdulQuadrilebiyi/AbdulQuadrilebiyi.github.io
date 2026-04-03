@@ -68,8 +68,6 @@ impacts profit.
   table, slicers and interactive dashboard design
 
 [Download Power BI File (.pbix)](https://github.com/AbdulQuadrilebiyi/AbdulQuadrilebiyi.github.io/blob/main/Orion%20Global%20Retail_Dashboard.pbix) | [View SQL Script (.sql)](https://github.com/AbdulQuadrilebiyi/AbdulQuadrilebiyi.github.io/blob/main/OrionRetail.sql)
----
-
 
 
 
@@ -155,3 +153,72 @@ segments and regions are actually profitable?
   dashboard design
 
 [Download Power BI File (.pbix)](https://github.com/AbdulQuadrilebiyi/AbdulQuadrilebiyi.github.io/blob/main/Atlas%20Retail_Dashboard.pbix) | [View SQL Script (.sql)](https://github.com/AbdulQuadrilebiyi/AbdulQuadrilebiyi.github.io/blob/main/AtlasRetail.sql)
+
+
+
+
+
+
+
+# Project 3
+
+**Title:** NovaCare Healthcare — Patient Operations Executive Dashboard
+
+**Tools:** Excel
+
+![Dashboard Screenshot](NOVACARE-SCREENSHOT.PNG)
+
+**Purpose:**
+To analyze patient activity, billing trends and operational
+performance across medical conditions, age groups and gender —
+providing healthcare management with visibility into admission
+patterns, length of stay and revenue performance.
+
+**Business Problem:**
+Hospital management had no structured way to monitor patient
+admissions, track billing trends or understand which medical
+conditions drive the longest stays and highest costs. The core
+question was — how are our patients distributed and is our
+billing performance consistent across conditions and months?
+
+**Approach:**
+- Imported raw patient dataset into Excel containing fields
+  including Age Group, Gender, Medical Condition, Admission
+  Type, Billing Amount, Length of Stay and Date of Admission
+- Used Power Query to clean and transform the dataset
+- Built multiple Pivot Tables to summarise patient activity —
+  monthly admissions, billing by month, condition distribution,
+  average length of stay and gender breakdown
+- Created KPI summaries for Total Billing, Total Patients,
+  Average Length of Stay and Emergency Admissions
+- Designed an interactive dashboard with charts, KPI cards
+  and slicers for Month, Medical Condition, Age Group and Gender
+
+**Outcome:**
+- Arthritis is the most common condition with the highest
+  patient count followed closely by Diabetes
+- Asthma patients have the longest average length of stay
+  at 15.7 days while Diabetes patients have the shortest at 15.4
+- Monthly patient admissions remain relatively stable
+  throughout the year with August showing the highest volume
+- Gender distribution is almost equal — Female 20,127
+  and Male 20,108 — showing no significant gender bias
+- Billing trends are consistent month to month with no
+  significant seasonal spikes
+
+**Recommendations:**
+- Prioritise resource planning for Arthritis and Diabetes
+  as they consistently represent the highest patient volumes
+- Review care pathways for Asthma patients to explore
+  opportunities to reduce average length of stay
+- Maintain consistent staffing levels year round given
+  the stable monthly admission pattern
+- Investigate billing consistency across insurance providers
+  to identify any revenue leakage or underbilling patterns
+
+**Tech Stack:**
+- Excel — Power Query for data cleaning and transformation,
+  Pivot Tables for data summarisation, KPI cards, charts,
+  slicers and interactive dashboard design
+
+📥 [Download Excel File (.xlsx)](NovaCare.xlsx)
