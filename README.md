@@ -162,7 +162,8 @@ segments and regions are actually profitable?
 
 # Project 3
 
-**Title:** NovaCare Healthcare — Patient Operations Executive Dashboard
+**Title: [Atlas Retail - Sales & Profitability Analytics Dashboard](https://github.com/AbdulQuadrilebiyi/AbdulQuadrilebiyi.github.io/blob/main/Atlas%20Retail_Dashboard.pbix)**
+**Title:** [NovaCare Healthcare — Patient Operations Executive Dashboard](https://github.com/AbdulQuadrilebiyi/AbdulQuadrilebiyi.github.io/blob/main/NovaCare.xlsx)**
 
 **Tools:** Excel
 
