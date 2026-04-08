@@ -100,7 +100,7 @@ segments and regions are actually profitable?
 
 **Approach:**
 
-- Conducted end-to-end data validation across three raw tables, orders, customers and products — following Excel import into
+- Conducted end-to-end data validation across three raw tables orders, customers and products, following Excel import into
   SQL Server
 - Used CTEs, ROW_NUMBER() and RANK() Window Functions to
   deduplicate records and rank products and customers by revenue
