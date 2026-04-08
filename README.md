@@ -87,7 +87,7 @@ impacts profit.
 **Purpose:**
 
 To analyze retail sales performance and profitability across 
-product categories, customer segments and regions — providing 
+product categories, customer segments and regions providing 
 management with clear visibility into revenue drivers, margin 
 trends and the commercial impact of discounting strategies.
 
@@ -95,14 +95,12 @@ trends and the commercial impact of discounting strategies.
 
 Leadership had no reliable way to measure profitability at 
 category or segment level, or to understand whether discounting 
-was helping or hurting the business. The core question was — 
-are we growing revenue while protecting our margins, and which 
+was helping or hurting the business. The core question was are we growing revenue while protecting our margins, and which 
 segments and regions are actually profitable?
 
 **Approach:**
 
-- Conducted end-to-end data validation across three raw tables —
-  orders, customers and products — following Excel import into
+- Conducted end-to-end data validation across three raw tables, orders, customers and products — following Excel import into
   SQL Server
 - Used CTEs, ROW_NUMBER() and RANK() Window Functions to
   deduplicate records and rank products and customers by revenue
@@ -144,10 +142,10 @@ segments and regions are actually profitable?
 
 **Tech Stack:**
 
-- SQL Server — CTEs, Window Functions including ROW_NUMBER()
+- SQL Server - CTEs, Window Functions including ROW_NUMBER()
   and RANK(), INNER and LEFT JOINs, CASE statements,
   data quality checks and clean view creation
-- Power BI — DAX measures, KPI cards, star schema data
+- Power BI - DAX measures, KPI cards, star schema data
   modelling with one-to-many relationships, calculated
   columns, Calendar table, slicers and interactive
   dashboard design
