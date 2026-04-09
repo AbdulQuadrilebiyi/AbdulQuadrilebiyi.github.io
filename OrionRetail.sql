@@ -1,6 +1,6 @@
 
 
--- Orion Global Retail — Supply Chain Performance & Enterprise Sales Analytics
+-- Orion Global Retail - Supply Chain Performance & Enterprise Sales Analytics
 
 
 -- SECTION 1: Data Quality Checks
