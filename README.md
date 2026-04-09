@@ -112,7 +112,7 @@ segments and regions are actually profitable?
   created DAX measures for Profit Margin %, Average Order Value,
   Revenue MoM %, Profit MoM %, Discounted Orders and
   Last Month comparisons
-- Designed a two page interactive dashboard with profitability
+- Designed a one page interactive dashboard with profitability
   visuals, regional comparisons, category breakdowns and
   discount impact analysis
 
